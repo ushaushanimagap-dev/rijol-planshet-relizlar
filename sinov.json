@@ -1,18 +1,15 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.2",
- "versionCode": 100602,
+ "version": "0.10.6-sinov.3",
+ "versionCode": 100603,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.2-planshet/Rijol-planshet-v0.10.6-sinov.2.apk",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.3-planshet/Rijol-planshet-v0.10.6-sinov.3.apk",
  "size": 109582226,
- "sha256": "030105f6e655a38015beb1b6c16356fdee33aa6e591efc02d0171d77682a40e6",
+ "sha256": "b8366367c267a1faee35d49d6b5cbcb99ed8846f3420c1bdd5f1281df930b13d",
  "date": "2026-11-06",
  "notes": [
-  "Daraxt: bog'lanish holati (تدليس, انقطاع, ta'arud, aniqlanmadi …) endi tugunda emas, chiziq ustida — rangli nuqta; bossangiz «shogird: sig'a — holat» izohi. Yo'li 12 ta yoki kam kartada holat chiziqda to'liq yoziladi.",
-  "Daraxt: zanjiri Tuhfada to'liq yozilmagan yo'llar daraxtda chizilmaydi — pastdagi «Aniqlanmagan yo'llar» ro'yxatida (sababi bilan); daraxt ustida «N yo'l (shundan K tasi … ro'yxatda)».",
-  "Daraxt: «···(n roviy)» oraliqlar boshidan ochiq; «Oraliqlarni yig'ish» tugmasi qoldi. Yorliqlar roviy qutilari ustiga tushmaydi.",
-  "«Eski (v0.9.2) tashjir» bloki kartadan olindi — kerak bo'lsa: Sozlamalar → Qo'shimcha → «Eski tashjir blokini ko'rsatish».",
-  "Muslim sahifasi sarlavhasida «85 / 7572» o'rniga «Muslim 8 · 1/4-qism».",
-  "Belgilar izohi yangilandi (nuqtali chiziq, chiziqdagi nuqta). Bazalar v0.10.5 dagidek — ma'lumot o'zgarmagan."
+  "Daraxt: Tuhfada yuqorisi yozilmagan (tugallanmagan) yo'llar yana daraxtda — oxirgi ma'lum roviygacha chiziladi, uning ustida «↑ davomi yo'q (zanjir tugallanmagan)» belgisi; sahobiyga uzun nuqtali chiziq yo'q.",
+  "«Aniqlanmagan yo'llar» ro'yxatida endi faqat zanjiri umuman yozilmagan yo'llar.",
+  "Qolgani sinov.2 dagidek: holat chiziqdagi nuqtada, oraliqlar ochiq, eski blok Sozlamalar → Qo'shimcha da, «Muslim 8 · 1/4-qism». Bazalar o'zgarmagan."
  ]
 }
