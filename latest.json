@@ -1,0 +1,15 @@
+{
+ "package": "uz.rijol.planshet",
+ "version": "0.10.5",
+ "versionCode": 1005,
+ "kanal": "asosiy",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.5-planshet/Rijol-planshet-v0.10.5.apk",
+ "size": 109578130,
+ "sha256": "08e243ee0aa6e3bc8158a973a7e16354e50daa63f6c24b709e1f41152d5b0895",
+ "date": "2026-11-06",
+ "notes": [
+  "Ilova ichidan yangilanish: yangi versiya chiqsa ilova o'zi xabar beradi va «Yangilash» bilan shu yerning o'zida o'rnatiladi (Daftarim va sozlamalar saqlanadi).",
+  "Sozlamalar → «Yangilanish» sahifasi: versiyani tekshirish va «Sinov versiyalarini olish» tanlovi (odatda o'chiq).",
+  "Kartalar, tashjir va bazalar v0.10.4 dagidek — boshqa hech narsa o'zgarmagan."
+ ]
+}
