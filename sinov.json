@@ -1,25 +1,22 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.4",
- "versionCode": 100604,
+ "version": "0.10.6-sinov.5",
+ "versionCode": 100605,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.4-planshet/Rijol-planshet-v0.10.6-sinov.4.apk",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.5-planshet/Rijol-planshet-v0.10.6-sinov.5.apk",
  "size": 109635474,
- "sha256": "747cff12f7337c770d3bcc4191ab309da0dceb7bda9e1561dfafb3c99845e727",
+ "sha256": "4f5ec58b04d4fb0227408641e2f1dc57eec2408619eba751fd9d1e721c084634",
  "date": "2026-11-06",
  "notes": [
-  "Hadis kartasida «Daraxt» ko'rinishi hozircha yashirildi (keyin qayta quriladi). Standart ko'rinish — Shajara; Yo'laklar va Ro'yxat o'z joyida.",
-  "Shajarada roviyni bossangiz — o'ng panelda uning «Roviy kartasi» ochiladi; qavati va «Nega?» Shajara ostidagi panelda qoladi. Roviy aniq tanilmagan tugunda «aniqlanmagan» yozuvi chiqadi, karta ochilmaydi.",
-  "Kichik yangilanishlar: keyingi versiyalarda butun ilova (≈ 110 MB) emas, faqat o'zgargan qism yuklanadi va ilova qayta ochilganda kuchga kiradi. Yangi qism ochilmasa ilova o'zi asl holatga qaytadi.",
-  "Sozlamalar → Yangilanish → «Kichik yangilanish holati»: ilova hozir qaysi qismdan ochilgani. Bu versiya bir marta to'liq (APK) o'rnatiladi; bazalar o'zgarmagan."
+  "Kichik yangilanish sinovi (1): faqat veb-paket (≈ 1 MB). Sozlamalar → Ilova haqida: «veb paket 1». Kod va bazalar sinov.4 dagidek."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.4",
-  "versionCode": 100604,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.4-planshet/veb-0.10.6-sinov.4.zip",
-  "sha256": "6a5bbb389a6c71726e82dd62592911213ad002dfaf4e49ec90c4ca53127ccff1",
-  "hajm": 1109579,
+  "versiya": "0.10.6-sinov.5",
+  "versionCode": 100605,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.5-planshet/veb-0.10.6-sinov.5.zip",
+  "sha256": "eb62f1432b19f8d3801ff883a7f9104fcac168cf50bb25dd620cfff8ac3ab04b",
+  "hajm": 1109585,
   "min_native": 1
  },
  "bazalar": {
