@@ -1,22 +1,23 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.7",
- "versionCode": 100607,
+ "version": "0.10.6-sinov.8",
+ "versionCode": 100608,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.7-planshet/Rijol-planshet-v0.10.6-sinov.7.apk",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.8-planshet/Rijol-planshet-v0.10.6-sinov.8.apk",
  "size": 109639570,
- "sha256": "e532254937d3b5809a5a016f75786746ce11c9f36fbfeea1f4fe7e3985ccf64a",
+ "sha256": "d8b3c58271eb0e1f62669813086fd3ba02b1a9eac906b667b616706927a55f12",
  "date": "2026-11-06",
  "notes": [
-  "Kichik yangilanish sinovi (1): faqat veb-paket (≈ 1 MB). Sozlamalar → Ilova haqida: «veb paket 1». Kod va bazalar sinov.4 dagidek."
+  "Kichik yangilanish (faqat veb-paket, ≈ 1,1 MB): paketdan ochilgan ilova bazalar vaqtincha band bo‘lsa endi asl versiyaga qaytib ketmaydi; har ochilish va qaytish sababi Sozlamalar → Yangilanish → «Kichik yangilanish holati» → «Jurnal» da yoziladi. «Ilova haqida»: «veb paket 2».",
+  "Yangilanish tekshiruvi o‘rnatilgan paket versiyasini hisobga oladi; ilova ocha olmagan paket qayta jim taklif qilinmaydi."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.7",
-  "versionCode": 100607,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.7-planshet/veb-0.10.6-sinov.7.zip",
-  "sha256": "fa16b83354fd71eaa313a777c5d297f9afaca502e227c43411904ee6d84e0a35",
-  "hajm": 1109856,
+  "versiya": "0.10.6-sinov.8",
+  "versionCode": 100608,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.8-planshet/veb-0.10.6-sinov.8.zip",
+  "sha256": "9448f7159a24f02e68655558b4a6d2e71e1eeab8b36fda6bac0b5c2474f7a356",
+  "hajm": 1110953,
   "min_native": 1
  },
  "bazalar": {
