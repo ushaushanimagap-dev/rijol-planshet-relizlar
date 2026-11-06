@@ -1,24 +1,22 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.6",
- "versionCode": 100606,
+ "version": "0.10.6-sinov.7",
+ "versionCode": 100607,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.6-planshet/Rijol-planshet-v0.10.6-sinov.6.apk",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.7-planshet/Rijol-planshet-v0.10.6-sinov.7.apk",
  "size": 109639570,
- "sha256": "4982f244474da5bd6b4f55922606144263665508753cfa3e7646b46cc43a1ceb",
+ "sha256": "e532254937d3b5809a5a016f75786746ce11c9f36fbfeea1f4fe7e3985ccf64a",
  "date": "2026-11-06",
  "notes": [
-  "Kichik yangilanish tuzatildi: sinov.5 da paket hajmi noto'g'ri o'qilib, yuklash boshlanmasdan rad etilardi. Bu versiya bir marta to'liq (APK) o'rnatiladi.",
-  "Kichik yangilanish o'rnatilmasa, endi haqiqiy sababi ekranda va Sozlamalar → Yangilanish → «Kichik yangilanish holati» da ko'rinadi; asosiy tugma «To'liq yangilash» ga o'tadi.",
-  "«Kichik yangilanish holati» dagi ortiqcha «nullnull» qatori olib tashlandi. Kartalar va bazalar sinov.4 dagidek."
+  "Kichik yangilanish sinovi (1): faqat veb-paket (≈ 1 MB). Sozlamalar → Ilova haqida: «veb paket 1». Kod va bazalar sinov.4 dagidek."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.6",
-  "versionCode": 100606,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.6-planshet/veb-0.10.6-sinov.6.zip",
-  "sha256": "a92e7e0c3f8f1692cfd8620b8f4d59add4c440daf79356b37579e19a4c06a5ab",
-  "hajm": 1109846,
+  "versiya": "0.10.6-sinov.7",
+  "versionCode": 100607,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.7-planshet/veb-0.10.6-sinov.7.zip",
+  "sha256": "fa16b83354fd71eaa313a777c5d297f9afaca502e227c43411904ee6d84e0a35",
+  "hajm": 1109856,
   "min_native": 1
  },
  "bazalar": {
