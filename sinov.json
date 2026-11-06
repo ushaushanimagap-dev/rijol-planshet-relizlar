@@ -1,28 +1,23 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.12",
- "versionCode": 100612,
+ "version": "0.10.6-sinov.13",
+ "versionCode": 100613,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.12-planshet/Rijol-planshet-v0.10.6-sinov.12.apk",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.13-planshet/Rijol-planshet-v0.10.6-sinov.13.apk",
  "size": 109651858,
- "sha256": "259920603bb8d87f2d85fd2b15899abe809f032c9573b799c8a12d393ad21c64",
+ "sha256": "80428840c4a5331e04c189f24850aedee0bce745a7722004b4837486255403ee",
  "date": "2026-11-06",
  "notes": [
-  "Shajara yangi ko‘rinishda: har roviy o‘z kartasida (arabcha ism, nasab, tabaqa, vafot, yo‘llar soni); kartalar ustma-ust tushmaydi, chiziqlar kesishmaydi; chiziq qanchalik ko‘p yo‘l o‘tsa, shuncha qalin.",
-  "Daraxt oxirida «javon»: har kitobning yo‘llari belgisi bilan; belgini bossangiz o‘sha yo‘llar ro‘yxati ochiladi.",
-  "Shajara ustida yo‘nalish tanlanadi: «Tepadan pastga» yoki «O‘ngdan chapga»; tanlov eslab qolinadi.",
-  "Eski ko‘rinish ham bor: Sozlamalar → Qo‘shimcha → «Shajara ko‘rinishi» da «Yangi» yoki «Eski» ni tanlang (keyingi ochilgan kartada kuchga kiradi). Daraxtning o‘zi ikkalasida bir xil, faqat chizilishi farq qiladi.",
-  "«Hozir qayta ochish» endi avval bazalarni yopadi: yangilanishdan keyin «Bazalar hozircha band» chiqmasligi kerak. Bu tuzatish shu versiyadan keyingi yangilanishlarda ishlaydi.",
-  "«Asl versiyaga qaytish» endi tasdiq so‘raydi («Ha, qaytish» / «Bekor qilish») va qaytish jurnalga yoziladi.",
-  "Ilova ocha olmagan yangilanish (masalan, sinov.11) qayta taklif qilinmaydi — na kichik, na 110 MB lik to‘liq yangilanish sifatida; undan yangi versiyalar odatdagidek taklif qilinadi."
+  "Faqat sinov: AI serveriga ulanish. Sozlamalar → AI da parolni kiritib, «Ulanishni sinash» ni bosing — 5 ta bo‘lak birin-ketin chiqishi kerak.",
+  "Kartalar, tashjir va bazalar sinov.12 dagidek."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.12",
-  "versionCode": 100612,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.12-planshet/veb-0.10.6-sinov.12.zip",
-  "sha256": "ec839453004cd35d76c0459dbd81e96c41696617236024999d4b4fea22fab5d1",
-  "hajm": 1123101,
+  "versiya": "0.10.6-sinov.13",
+  "versionCode": 100613,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.13-planshet/veb-0.10.6-sinov.13.zip",
+  "sha256": "aae6941ca86e5eb0f0d2648a4bbf3facde8b2409b2ec310cd27e5ec24ef67773",
+  "hajm": 1125233,
   "min_native": 1
  },
  "bazalar": {
