@@ -1,26 +1,26 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.9",
- "versionCode": 100609,
+ "version": "0.10.6-sinov.10",
+ "versionCode": 100610,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.9-planshet/Rijol-planshet-v0.10.6-sinov.9.apk",
- "size": 109639655,
- "sha256": "fc9f842fd82df79477783ff4c03499b24665fbbea1f9c749dabd8b44ba06f701",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.10-planshet/Rijol-planshet-v0.10.6-sinov.10.apk",
+ "size": 109639570,
+ "sha256": "583c31cb55775e9bb4b8aff60f53c253b18277798ce9c709da56a0a18f578127",
  "date": "2026-11-06",
  "notes": [
-  "Kichik yangilanish sinovi: bitta kichik baza (kitob_mustalah, faqat PRAGMA user_version) o‘zgargan va bitta sinov bazasi (sinov_qoshimcha) qo‘shilgan — faqat shular yuklanadi. «veb paket 3 · baza sinovi»."
+  "Kichik yangilanish sinovi: sinov_qoshimcha bazasi ro‘yxatdan olib tashlangan — planshetdan o‘chiriladi, baza yuklanmaydi. «veb paket 4»."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.9",
-  "versionCode": 100609,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.9-planshet/veb-0.10.6-sinov.9.zip",
-  "sha256": "222781de5c29aabc6c72a4e861138c161ce5fa9074c632908986327de7194f0d",
-  "hajm": 1111045,
+  "versiya": "0.10.6-sinov.10",
+  "versionCode": 100610,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.10-planshet/veb-0.10.6-sinov.10.zip",
+  "sha256": "cb6658f16f726d0dbffc064be19ac6c80e329c68fac991bfff4dfbc76f3155cb",
+  "hajm": 1110949,
   "min_native": 1
  },
  "bazalar": {
-  "belgi": "f04adefa7ac75afa",
+  "belgi": "79f98bcba584beeb",
   "fayllar": {
    "rijol.sqlite": {
     "sha256": "5cdfd0678a3cbad8b8cf151d28f62ce3850b794b13702cae5264705127066adf",
@@ -60,13 +60,6 @@
    "kitob_tuhfa.sqlite": {
     "sha256": "55985557567fbb2bc15b4856ef0f6bef2f7f9e3667afc0c30f34763c24487521",
     "hajm": 288559104
-   },
-   "sinov_qoshimcha.sqlite": {
-    "sha256": "e09e298531e77da235b9c297f673735be6002733c6450e740e36cae51f474c63",
-    "hajm": 8192,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.9-planshet/sinov_qoshimcha.sqlite.xz",
-    "xz_sha256": "a04fadf389d63fcf34a5207c6499b6052d02934229dce1bd7292088423fce604",
-    "xz_hajm": 256
    }
   }
  }
