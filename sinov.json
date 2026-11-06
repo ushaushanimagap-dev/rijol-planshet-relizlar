@@ -1,15 +1,66 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.3",
- "versionCode": 100603,
+ "version": "0.10.6-sinov.4",
+ "versionCode": 100604,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.3-planshet/Rijol-planshet-v0.10.6-sinov.3.apk",
- "size": 109582226,
- "sha256": "b8366367c267a1faee35d49d6b5cbcb99ed8846f3420c1bdd5f1281df930b13d",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.4-planshet/Rijol-planshet-v0.10.6-sinov.4.apk",
+ "size": 109635474,
+ "sha256": "747cff12f7337c770d3bcc4191ab309da0dceb7bda9e1561dfafb3c99845e727",
  "date": "2026-11-06",
  "notes": [
-  "Daraxt: Tuhfada yuqorisi yozilmagan (tugallanmagan) yo'llar yana daraxtda — oxirgi ma'lum roviygacha chiziladi, uning ustida «↑ davomi yo'q (zanjir tugallanmagan)» belgisi; sahobiyga uzun nuqtali chiziq yo'q.",
-  "«Aniqlanmagan yo'llar» ro'yxatida endi faqat zanjiri umuman yozilmagan yo'llar.",
-  "Qolgani sinov.2 dagidek: holat chiziqdagi nuqtada, oraliqlar ochiq, eski blok Sozlamalar → Qo'shimcha da, «Muslim 8 · 1/4-qism». Bazalar o'zgarmagan."
- ]
+  "Hadis kartasida «Daraxt» ko'rinishi hozircha yashirildi (keyin qayta quriladi). Standart ko'rinish — Shajara; Yo'laklar va Ro'yxat o'z joyida.",
+  "Shajarada roviyni bossangiz — o'ng panelda uning «Roviy kartasi» ochiladi; qavati va «Nega?» Shajara ostidagi panelda qoladi. Roviy aniq tanilmagan tugunda «aniqlanmagan» yozuvi chiqadi, karta ochilmaydi.",
+  "Kichik yangilanishlar: keyingi versiyalarda butun ilova (≈ 110 MB) emas, faqat o'zgargan qism yuklanadi va ilova qayta ochilganda kuchga kiradi. Yangi qism ochilmasa ilova o'zi asl holatga qaytadi.",
+  "Sozlamalar → Yangilanish → «Kichik yangilanish holati»: ilova hozir qaysi qismdan ochilgani. Bu versiya bir marta to'liq (APK) o'rnatiladi; bazalar o'zgarmagan."
+ ],
+ "native": 1,
+ "veb": {
+  "versiya": "0.10.6-sinov.4",
+  "versionCode": 100604,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.4-planshet/veb-0.10.6-sinov.4.zip",
+  "sha256": "6a5bbb389a6c71726e82dd62592911213ad002dfaf4e49ec90c4ca53127ccff1",
+  "hajm": 1109579,
+  "min_native": 1
+ },
+ "bazalar": {
+  "belgi": "246b373d7a0ac0a0",
+  "fayllar": {
+   "rijol.sqlite": {
+    "sha256": "5cdfd0678a3cbad8b8cf151d28f62ce3850b794b13702cae5264705127066adf",
+    "hajm": 256749568
+   },
+   "kitob_birlik.sqlite": {
+    "sha256": "9f68da5e5bfa53d582e56bdddc7f5972a28dde3185fcfd05735ecd8cda4ac4ef",
+    "hajm": 10690560
+   },
+   "kitob_ilal.sqlite": {
+    "sha256": "fda978d041ee5af65dfdc809f833eb610b43cd57dd232f9701c0f6225b15cb8f",
+    "hajm": 46759936
+   },
+   "kitob_karta.sqlite": {
+    "sha256": "c9d8009bdb5029f82d00f6d7aeb95f64d625f75f9b6d65aa574bc2e49e01ce30",
+    "hajm": 51478528
+   },
+   "kitob_mashq.sqlite": {
+    "sha256": "ded8f94869163054e5672d796b8101ca38fbfaf24715617d5dd6063621f1bdbf",
+    "hajm": 1503232
+   },
+   "kitob_muslim.sqlite": {
+    "sha256": "8b7fe0f7207a58e203aa37e0013baa0b7580b26c7b4d16c664888f0b5f0e77f9",
+    "hajm": 86773760
+   },
+   "kitob_mustalah.sqlite": {
+    "sha256": "a30ddb23a6ce6569fa1a1e257a991916e68b01c8498a5b5aec38f04ba4899839",
+    "hajm": 647168
+   },
+   "kitob_mutobaa.sqlite": {
+    "sha256": "d7a170b90737ffb8f8fa875bc0125e8eb7e3931501481f4d98d921d6c282d1b4",
+    "hajm": 21426176
+   },
+   "kitob_tuhfa.sqlite": {
+    "sha256": "55985557567fbb2bc15b4856ef0f6bef2f7f9e3667afc0c30f34763c24487521",
+    "hajm": 288559104
+   }
+  }
+ }
 }
