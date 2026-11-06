@@ -1,22 +1,22 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.10",
- "versionCode": 100610,
+ "version": "0.10.6-sinov.11",
+ "versionCode": 100611,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.10-planshet/Rijol-planshet-v0.10.6-sinov.10.apk",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.11-planshet/Rijol-planshet-v0.10.6-sinov.11.apk",
  "size": 109639570,
- "sha256": "583c31cb55775e9bb4b8aff60f53c253b18277798ce9c709da56a0a18f578127",
+ "sha256": "a329302e650fd5dd43c993bdd25b43e87087c1f2016fa76ce13ace389a7894a0",
  "date": "2026-11-06",
  "notes": [
-  "Kichik yangilanish sinovi: sinov_qoshimcha bazasi ro‘yxatdan olib tashlangan — planshetdan o‘chiriladi, baza yuklanmaydi. «veb paket 4»."
+  "Kichik yangilanish sinovi: ATAYLAB BUZILGAN veb-paket — oq ekran chiqadi, 3-ochilishda ilova o‘zi asl versiyaga qaytishi kerak."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.10",
-  "versionCode": 100610,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.10-planshet/veb-0.10.6-sinov.10.zip",
-  "sha256": "cb6658f16f726d0dbffc064be19ac6c80e329c68fac991bfff4dfbc76f3155cb",
-  "hajm": 1110949,
+  "versiya": "0.10.6-sinov.11",
+  "versionCode": 100611,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.11-planshet/veb-0.10.6-sinov.11.zip",
+  "sha256": "066f9231387137c58213b415cc68ccb60f58c5301ae681c0dee34a9137c5472c",
+  "hajm": 1110412,
   "min_native": 1
  },
  "bazalar": {
