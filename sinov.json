@@ -1,23 +1,26 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.13",
- "versionCode": 100613,
+ "version": "0.10.6-sinov.14",
+ "versionCode": 100614,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.13-planshet/Rijol-planshet-v0.10.6-sinov.13.apk",
- "size": 109651858,
- "sha256": "80428840c4a5331e04c189f24850aedee0bce745a7722004b4837486255403ee",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.14-planshet/Rijol-planshet-v0.10.6-sinov.14.apk",
+ "size": 109660050,
+ "sha256": "848d7d3c25a364a8b9161258f0925fa5025efecb0f63aed302c653b6a917d093",
  "date": "2026-11-06",
  "notes": [
-  "Faqat sinov: AI serveriga ulanish. Sozlamalar → AI da parolni kiritib, «Ulanishni sinash» ni bosing — 5 ta bo‘lak birin-ketin chiqishi kerak.",
-  "Kartalar, tashjir va bazalar sinov.12 dagidek."
+  "Hadis kartasida yangi «AI» yorlig‘i: «Isnodni tushuntir» — kartaning o‘z ma’lumotidan qisqa tushuntirish (yo‘llar, sahobiy, madar, asosiy roviylar, belgilar, noaniq joylar), har fakt manba belgisi bilan; «Batafsil» va shu karta bo‘yicha savol.",
+  "Har javob ostida narxi; bir xil javob ikkinchi marta «xotiradan, bepul». Javoblar planshetda saqlanadi va internetsiz o‘qiladi.",
+  "Javob noto‘g‘ri bo‘lsa «Noto‘g‘ri» tugmasi bilan izoh qoldiring — u boshqa hech kimga berilmaydi.",
+  "Sozlamalar → AI: ulanish, model (Opus / Sonnet), shu oydagi sarf va oylik limit (standart 150 $), «Noto‘g‘ri» belgilar ro‘yxati.",
+  "Kartalar, tashjir va bazalar sinov.13 dagidek."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.13",
-  "versionCode": 100613,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.13-planshet/veb-0.10.6-sinov.13.zip",
-  "sha256": "aae6941ca86e5eb0f0d2648a4bbf3facde8b2409b2ec310cd27e5ec24ef67773",
-  "hajm": 1125233,
+  "versiya": "0.10.6-sinov.14",
+  "versionCode": 100614,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.14-planshet/veb-0.10.6-sinov.14.zip",
+  "sha256": "8bc86dbfec4de92915a3445ef3258ccec8ac2f31359c879507a0602c9bec4225",
+  "hajm": 1133620,
   "min_native": 1
  },
  "bazalar": {
