@@ -1,0 +1,14 @@
+{
+ "package": "uz.rijol.planshet",
+ "version": "0.10.6-sinov.1",
+ "versionCode": 100601,
+ "kanal": "sinov",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.1-planshet/Rijol-planshet-v0.10.6-sinov.1.apk",
+ "size": 109578130,
+ "sha256": "c05f5b03acf1b27f50edc49d7d4580ad93505533439e4bb6a887c6c270dce648",
+ "date": "2026-11-06",
+ "notes": [
+  "Faqat sinov: ilova ichidan yangilanish yo'lini tekshirish uchun. Yagona farq — Sozlamalar → Yangilanish da «ⓘ sinov versiyasi o'rnatilgan» qatori.",
+  "Kartalar, tashjir va bazalar v0.10.5 dagidek."
+ ]
+}
