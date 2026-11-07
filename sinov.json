@@ -1,34 +1,38 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.14",
- "versionCode": 100614,
+ "version": "0.10.6-sinov.15",
+ "versionCode": 100615,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.14-planshet/Rijol-planshet-v0.10.6-sinov.14.apk",
- "size": 109660050,
- "sha256": "848d7d3c25a364a8b9161258f0925fa5025efecb0f63aed302c653b6a917d093",
- "date": "2026-11-06",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.15-planshet/Rijol-planshet-v0.10.6-sinov.15.apk",
+ "size": 110663570,
+ "sha256": "b865ff652129ad7854d9c715c3ff8568873c93990f63cf31365652be970b6ab9",
+ "date": "2026-11-07",
  "notes": [
-  "Hadis kartasida yangi «AI» yorlig‘i: «Isnodni tushuntir» — kartaning o‘z ma’lumotidan qisqa tushuntirish (yo‘llar, sahobiy, madar, asosiy roviylar, belgilar, noaniq joylar), har fakt manba belgisi bilan; «Batafsil» va shu karta bo‘yicha savol.",
-  "Har javob ostida narxi; bir xil javob ikkinchi marta «xotiradan, bepul». Javoblar planshetda saqlanadi va internetsiz o‘qiladi.",
-  "Javob noto‘g‘ri bo‘lsa «Noto‘g‘ri» tugmasi bilan izoh qoldiring — u boshqa hech kimga berilmaydi.",
-  "Sozlamalar → AI: ulanish, model (Opus / Sonnet), shu oydagi sarf va oylik limit (standart 150 $), «Noto‘g‘ri» belgilar ro‘yxati.",
-  "Kartalar, tashjir va bazalar sinov.13 dagidek."
+  "Ma’lumot tuzatildi: Tuhfada tanilgan, lekin bazada yozuvi yo‘q bo‘lgan 570 roviy (521 + 49) qo‘shildi — endi ular «aniqlanmagan» emas, ismi va roviy kartasi bilan chiqadi.",
+  "Tuhfada yuqori zanjiri yozilmagan yo‘llar endi kitob isnodi bilan solishtirilib quriladi: ekrandagi «ma’lumot yo‘q» o‘rinlar Buxoriy kartalarida 24 246 dan 24 ga, Muslim kartalarida 26 924 dan 23 ga tushdi.",
+  "Aniq tanilgan roviylar ulushi: Buxoriy 91,4 % → 95,2 %, Muslim 90,9 % → 94,9 %. Birorta aniq tanilgan roviy boshqasiga almashmadi.",
+  "Qarab ko‘ring: Fath 122, Fath 1239 va Muslim 2380 (ilgari deyarli hamma o‘rin «ma’lumot yo‘q» edi), Muslim 1757, Fath 118; nazorat uchun Fath 187 — al-Hakam b. Utayba avvalgidek.",
+  "AI avvalgidek ishlaydi (kartadagi «AI» yorlig‘i, Sozlamalar → AI).",
+  "Bu yangilanishda ikki baza va ilova qismi yuklanadi (jami ≈ 35 MB)."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.14",
-  "versionCode": 100614,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.14-planshet/veb-0.10.6-sinov.14.zip",
-  "sha256": "8bc86dbfec4de92915a3445ef3258ccec8ac2f31359c879507a0602c9bec4225",
-  "hajm": 1133620,
+  "versiya": "0.10.6-sinov.15",
+  "versionCode": 100615,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.15-planshet/veb-0.10.6-sinov.15.zip",
+  "sha256": "60e1b780070ffa789e02a4d3035e41102e99d4c90ec29209700b7d78697e2f23",
+  "hajm": 1135087,
   "min_native": 1
  },
  "bazalar": {
-  "belgi": "79f98bcba584beeb",
+  "belgi": "745e89e31fa05c3e",
   "fayllar": {
    "rijol.sqlite": {
-    "sha256": "5cdfd0678a3cbad8b8cf151d28f62ce3850b794b13702cae5264705127066adf",
-    "hajm": 256749568
+    "sha256": "c27a9739d2c9c251670014903532d11a263a531484dbc98a0200b3cfb5ad6486",
+    "hajm": 260521984,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.15-planshet/rijol.sqlite.xz",
+    "xz_sha256": "250c05a1116f11e6bbb89a1a12701d74875247aa806cc69bf68ad4fd0dc69d81",
+    "xz_hajm": 15169952
    },
    "kitob_birlik.sqlite": {
     "sha256": "9f68da5e5bfa53d582e56bdddc7f5972a28dde3185fcfd05735ecd8cda4ac4ef",
@@ -62,8 +66,11 @@
     "hajm": 21426176
    },
    "kitob_tuhfa.sqlite": {
-    "sha256": "55985557567fbb2bc15b4856ef0f6bef2f7f9e3667afc0c30f34763c24487521",
-    "hajm": 288559104
+    "sha256": "ee7c1e752bdf820b0887405129c7e0945e243b77e9bd1f03ede3fc933a46ed9c",
+    "hajm": 288976896,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.15-planshet/kitob_tuhfa.sqlite.xz",
+    "xz_sha256": "58ee59caf00005d1684fe43cd5ea6c907324372c3884149edf5b24aec8c96b0d",
+    "xz_hajm": 18406360
    }
   }
  }
