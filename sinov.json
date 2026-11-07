@@ -1,38 +1,37 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.15",
- "versionCode": 100615,
+ "version": "0.10.6-sinov.16",
+ "versionCode": 100616,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.15-planshet/Rijol-planshet-v0.10.6-sinov.15.apk",
- "size": 110663570,
- "sha256": "b865ff652129ad7854d9c715c3ff8568873c93990f63cf31365652be970b6ab9",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.16-planshet/Rijol-planshet-v0.10.6-sinov.16.apk",
+ "size": 110733202,
+ "sha256": "afff025af8c9c7a102dc3d6fb91dcf34a399290972f2f722e36dc32168886729",
  "date": "2026-11-07",
  "notes": [
-  "Ma’lumot tuzatildi: Tuhfada tanilgan, lekin bazada yozuvi yo‘q bo‘lgan 570 roviy (521 + 49) qo‘shildi — endi ular «aniqlanmagan» emas, ismi va roviy kartasi bilan chiqadi.",
-  "Tuhfada yuqori zanjiri yozilmagan yo‘llar endi kitob isnodi bilan solishtirilib quriladi: ekrandagi «ma’lumot yo‘q» o‘rinlar Buxoriy kartalarida 24 246 dan 24 ga, Muslim kartalarida 26 924 dan 23 ga tushdi.",
-  "Aniq tanilgan roviylar ulushi: Buxoriy 91,4 % → 95,2 %, Muslim 90,9 % → 94,9 %. Birorta aniq tanilgan roviy boshqasiga almashmadi.",
-  "Qarab ko‘ring: Fath 122, Fath 1239 va Muslim 2380 (ilgari deyarli hamma o‘rin «ma’lumot yo‘q» edi), Muslim 1757, Fath 118; nazorat uchun Fath 187 — al-Hakam b. Utayba avvalgidek.",
-  "AI avvalgidek ishlaydi (kartadagi «AI» yorlig‘i, Sozlamalar → AI).",
-  "Bu yangilanishda ikki baza va ilova qismi yuklanadi (jami ≈ 35 MB)."
+  "Usha qarori: isnodda yolg‘iz «الزهري» deb kelgan roviy — Ibn Shihob az-Zuhriy (محمد بن مسلم بن شهاب). Faqat ikki qo‘shnisi (ustozi va shogirdi) uning «روى عن / روى عنه» ro‘yxatlariga mos kelgan joylarda «aniq» bo‘ldi: 106 tugun, ekranda 362 o‘rin. Mos kelmaganlari o‘zgarmadi va tekshiruv ro‘yxatida turibdi.",
+  "Roviy ro‘yxatlaridagi imlo xatolari tuzatildi (masalan, az-Zuhriy ro‘yxatida «شعبة بن المسيب» → سعيد بن المسيب): 330 band; «محمد بن مسلم بن شهاب الزهري» deb yozilgan 91 band endi az-Zuhriyga bog‘langan.",
+  "Ba’zi yo‘llar endi kitobning o‘z isnodi bilan ko‘rsatiladi (sig‘a bilan). Besh Muslim hadisida madar az-Zuhriy bo‘ldi; shart bajarilmagan uch hadisda madar avvalgidek.",
+  "Qarab ko‘ring: Muslim 3018 (25 o‘rin aniq bo‘ldi), Fath 367 (yo‘l kitob isnodi bilan), Muslim 411 (madar — az-Zuhriy), nazorat uchun Muslim 1394 (madar avvalgidek); az-Zuhriy roviy kartasida «روى عن» ro‘yxati.",
+  "Bu yangilanishda uch baza va ilova qismi yuklanadi (jami ≈ 42 MB)."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.15",
-  "versionCode": 100615,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.15-planshet/veb-0.10.6-sinov.15.zip",
-  "sha256": "60e1b780070ffa789e02a4d3035e41102e99d4c90ec29209700b7d78697e2f23",
-  "hajm": 1135087,
+  "versiya": "0.10.6-sinov.16",
+  "versionCode": 100616,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.16-planshet/veb-0.10.6-sinov.16.zip",
+  "sha256": "2bebca11e93aa4a5c7366aeec1504f9b48db20996e35fc10cfd08761c18dc8c6",
+  "hajm": 1135091,
   "min_native": 1
  },
  "bazalar": {
-  "belgi": "745e89e31fa05c3e",
+  "belgi": "c6633e98d4291192",
   "fayllar": {
    "rijol.sqlite": {
-    "sha256": "c27a9739d2c9c251670014903532d11a263a531484dbc98a0200b3cfb5ad6486",
-    "hajm": 260521984,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.15-planshet/rijol.sqlite.xz",
-    "xz_sha256": "250c05a1116f11e6bbb89a1a12701d74875247aa806cc69bf68ad4fd0dc69d81",
-    "xz_hajm": 15169952
+    "sha256": "d986f772e9552cb0e3749a96b1214ade0ec30d433159b4c283157b11a046900e",
+    "hajm": 260788224,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.16-planshet/rijol.sqlite.xz",
+    "xz_sha256": "b573b6f25bc4edc928bdcf34dcf5f62b15b33c445c6b3e6558be04c696e9f9c4",
+    "xz_hajm": 15212072
    },
    "kitob_birlik.sqlite": {
     "sha256": "9f68da5e5bfa53d582e56bdddc7f5972a28dde3185fcfd05735ecd8cda4ac4ef",
@@ -51,8 +50,11 @@
     "hajm": 1503232
    },
    "kitob_muslim.sqlite": {
-    "sha256": "8b7fe0f7207a58e203aa37e0013baa0b7580b26c7b4d16c664888f0b5f0e77f9",
-    "hajm": 86773760
+    "sha256": "7ff305386bf96b778d5aa30c5da93d8a92055305cc14c24b8908a3de8a9d3636",
+    "hajm": 86822912,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.16-planshet/kitob_muslim.sqlite.xz",
+    "xz_sha256": "0cbc5e590e8a8761f6257378435db40e54613b4a2614a9ff44ee8eb6fd5a063f",
+    "xz_hajm": 7197176
    },
    "kitob_mustalah.sqlite": {
     "sha256": "13c72887bb2640d6e62ee1cb0b505108e039a507410ed5394163171d4626416e",
@@ -66,11 +68,11 @@
     "hajm": 21426176
    },
    "kitob_tuhfa.sqlite": {
-    "sha256": "ee7c1e752bdf820b0887405129c7e0945e243b77e9bd1f03ede3fc933a46ed9c",
-    "hajm": 288976896,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.15-planshet/kitob_tuhfa.sqlite.xz",
-    "xz_sha256": "58ee59caf00005d1684fe43cd5ea6c907324372c3884149edf5b24aec8c96b0d",
-    "xz_hajm": 18406360
+    "sha256": "77bd84ef080372247a043dd44ee037aabfd2e41ab55fa9f92e857d8df260c67b",
+    "hajm": 289005568,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.16-planshet/kitob_tuhfa.sqlite.xz",
+    "xz_sha256": "39aae1c390d6ade37410598d547114bfdc81f8660ea17a96033681ce0853dfe1",
+    "xz_hajm": 18408496
    }
   }
  }
