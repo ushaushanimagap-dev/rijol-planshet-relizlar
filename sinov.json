@@ -1,31 +1,30 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.18",
- "versionCode": 100618,
+ "version": "0.10.6-sinov.19",
+ "versionCode": 100619,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.18-planshet/Rijol-planshet-v0.10.6-sinov.18.apk",
- "size": 111126418,
- "sha256": "5958ad6afe1eccccb9375515f738a943a7e67250620faa26d2ec097d419d986d",
- "date": "2026-11-07",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.19-planshet/Rijol-planshet-v0.10.6-sinov.19.apk",
+ "size": 111134610,
+ "sha256": "742f393b20485fd0b171a981f3f7763570ed2d7228fe58df47904e00f8d8ed51",
+ "date": "2026-11-08",
  "notes": [
-  "Hadis kartasida Taxrij, Tashjir va boshqa bo‘lim tugmalarini bosganda sahifa endi tepaga sakramaydi: tugmalar qatori turgan joyida qoladi, yangi bo‘lim shu qator ostidan ochiladi (sizning topilmangiz).",
-  "Shajara: mursal yozuvlarda (sahobiy yozilmagan) ildiz endi «?» nomli «aniqlanmagan» quti emas — yo‘l oxirgi roviyda (masalan Mujohid) «Mursal» yorlig‘i bilan tugaydi, zanjirdagi aniq roviylar tanilgan. Qarab ko‘ring: Fath 1349 (Buxoriy 4313 yo‘li — حسن بن مسلم، مجاهد).",
-  "Shajara: «(ح N)» havolasi bilan kelgan yo‘llar — manba yo‘l zanjiri yozuvning tobe‘iysidan pastga faqat yozuvning o‘z roviysi (Tuhfa sarlavhasidagi ism) shu zanjirda tobe‘iy ostida aniq tanilgan bo‘lsa chiziladi; bir necha manbadan kartaning o‘z o‘rnidagisi olinadi. Aniqlab bo‘lmasa — avvalgidek kitob belgisi (boshqa roviyning zanjiri ulanmaydi).",
-  "Yo‘l izohi: Tuhfa matnida yuqorisi yozilmagan yo‘llarda «yo‘l oxirigacha o‘qilmagan» o‘rniga «yo‘l shu roviyda tugaydi — Tuhfa matnida undan yuqorisi yozilmagan».",
-  "Shajara bo‘lim tugmalariga «Sahobiysi noaniq N yo‘l» qo‘shildi (bunday yozuv bo‘lsa): avval bu yo‘llar faqat «Hammasi» ichida edi, «متابعة 0 / شاهد 0» chalg‘itardi. Qarab ko‘ring: Fath 2711.",
-  "Bazalar sinov.17 dagidek — faqat ilova qismi yuklanadi (kichik yangilanish)."
+  "Buxoriy kartalarida kitobning o‘z isnodida ochiq aytilgan ism endi Tuhfa tugunidagi noaniq ismdan ustun turadi, lekin faqat ikki qo‘shni roviy kitobda ham aynan o‘sha shaxslar bo‘lib, Tahzibda bog‘lanish topilganda: Fath 97 da Tuhfada yolg‘iz «محمد» deb kelgan roviy Buxoriy matnidagi «محمد هو ابن سلام» lafzi bilan Muhammad b. Salom deb aniq tanildi, Fath 2631 da esa Tuhfa nusxasidagi «حسن بن عطية» kitobdagi «حسان بن عطية» bilan to‘g‘rilandi.",
+  "Tuhfa sarlavhasida «… مولى سلمة بن الأكوع — عن مولاه سلمة» shaklida kelgan yo‘llarda «مولاه» endi sarlavhadagi to‘liq ismga ulanadi; bu faqat ikki sahobiyga — سلمة بن الأكوع va رافع بن خديج — tegishli bo‘lib, shogirdi aniq tanilmagan o‘rinlarga tegilmadi. Qarab ko‘ring: Fath 1924 (Salama b. al-Akva‘) va Fath 2485 (Rofe‘ b. Xadij).",
+  "To‘liq isnodsiz «وعن…», «قال: وأخبرني…» bilan boshlanadigan davom raqamlarida yo‘l endi o‘z raqamining kartasida turadi, avval esa oldingi raqamning kartasida edi; matn bilan ko‘rib chiqilgan to‘qqiz ko‘chirishdan qarab ko‘ring: Fath 522 («قال عروة: ولقد حدثتني عائشة», avval Fath 521 da) va Fath 1259 («وعن أيوب عن حفصة عن أم عطية», avval Fath 1258 da). Fath 3880 va Fath 5463 ataylab o‘zgartirilmadi.",
+  "Ekran darajasidagi aniq ulush Buxoriyda 95,78 → 95,91 %, Muslimda 95,53 → 95,57 % bo‘ldi va hech bir kitob yomonlashmadi; jami 340 karta o‘zgardi.",
+  "Ilova qismi sinov.18 dagidek qoldi, shu sababli bu yangilanishda faqat ikki baza (Tuhfa va karta bazalari) bilan ilova qismi yuklanadi (jami ≈ 24 MB)."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.18",
-  "versionCode": 100618,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.18-planshet/veb-0.10.6-sinov.18.zip",
-  "sha256": "fb6a806b2c9449c8334d194f8b80800ae759e22877b19206115ae026bd523983",
-  "hajm": 1139092,
+  "versiya": "0.10.6-sinov.19",
+  "versionCode": 100619,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.19-planshet/veb-0.10.6-sinov.19.zip",
+  "sha256": "898df19356e0d8b3a9a207cbe2f2c27fad6ef8eba6a90290278ed14cf9197d80",
+  "hajm": 1139094,
   "min_native": 1
  },
  "bazalar": {
-  "belgi": "1c319626db279716",
+  "belgi": "8bc2856f742d7db8",
   "fayllar": {
    "rijol.sqlite": {
     "sha256": "fd66220b43f45cd43cd48cd6b05fcafbd476c27970522de3165c2e6ec7d7dd6c",
@@ -46,11 +45,11 @@
     "hajm": 46759936
    },
    "kitob_karta.sqlite": {
-    "sha256": "cca82f9428328fafcd0dd839faf1747b017afe4038ec29e70d873c302a84b68c",
+    "sha256": "e415f6d31a349f2031915dee472215725c0c44ff9143d743c4d70d46beb1d9b7",
     "hajm": 52629504,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.17-planshet/kitob_karta.sqlite.xz",
-    "xz_sha256": "4feda01d9924f7af3f2b15fe4b00356f93b7ce6b4c8af5750c4118d292aaea49",
-    "xz_hajm": 4340636
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.19-planshet/kitob_karta.sqlite.xz",
+    "xz_sha256": "b14ab702f34bbfe1d2788051625725f7b3bca69f994565e5caa4e189f87c7c52",
+    "xz_hajm": 4341236
    },
    "kitob_mashq.sqlite": {
     "sha256": "ded8f94869163054e5672d796b8101ca38fbfaf24715617d5dd6063621f1bdbf",
@@ -75,11 +74,11 @@
     "hajm": 21426176
    },
    "kitob_tuhfa.sqlite": {
-    "sha256": "7578373d2fa037ec02acf9d03a58c444762bf52cbc5951ab505a5fd1422aa2ad",
-    "hajm": 289394688,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.17-planshet/kitob_tuhfa.sqlite.xz",
-    "xz_sha256": "473bb558753c88b12518a2798468e4df7583fceabb2c4fc3d6b2baf9d26c349b",
-    "xz_hajm": 18450640
+    "sha256": "5b7ae21afcc64171ac1571bdff9e37d780c77002e24ebe92e123076b1a15d3e5",
+    "hajm": 289419264,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.19-planshet/kitob_tuhfa.sqlite.xz",
+    "xz_sha256": "eb09100fa359e208a978997c3af85220c9cdab6318431a361029b9ad5cafd556",
+    "xz_hajm": 18459896
    }
   }
  }
