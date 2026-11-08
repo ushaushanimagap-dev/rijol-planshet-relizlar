@@ -1,30 +1,33 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.19",
- "versionCode": 100619,
+ "version": "0.10.6-sinov.20",
+ "versionCode": 100620,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.19-planshet/Rijol-planshet-v0.10.6-sinov.19.apk",
- "size": 111134610,
- "sha256": "742f393b20485fd0b171a981f3f7763570ed2d7228fe58df47904e00f8d8ed51",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.20-planshet/Rijol-planshet-v0.10.6-sinov.20.apk",
+ "size": 111187858,
+ "sha256": "3a375d2fbec866415956558f60168e77d5652204e5dc6bbae810a85f622a0d11",
  "date": "2026-11-08",
  "notes": [
-  "Buxoriy kartalarida kitobning o‘z isnodida ochiq aytilgan ism endi Tuhfa tugunidagi noaniq ismdan ustun turadi, lekin faqat ikki qo‘shni roviy kitobda ham aynan o‘sha shaxslar bo‘lib, Tahzibda bog‘lanish topilganda: Fath 97 da Tuhfada yolg‘iz «محمد» deb kelgan roviy Buxoriy matnidagi «محمد هو ابن سلام» lafzi bilan Muhammad b. Salom deb aniq tanildi, Fath 2631 da esa Tuhfa nusxasidagi «حسن بن عطية» kitobdagi «حسان بن عطية» bilan to‘g‘rilandi.",
-  "Tuhfa sarlavhasida «… مولى سلمة بن الأكوع — عن مولاه سلمة» shaklida kelgan yo‘llarda «مولاه» endi sarlavhadagi to‘liq ismga ulanadi; bu faqat ikki sahobiyga — سلمة بن الأكوع va رافع بن خديج — tegishli bo‘lib, shogirdi aniq tanilmagan o‘rinlarga tegilmadi. Qarab ko‘ring: Fath 1924 (Salama b. al-Akva‘) va Fath 2485 (Rofe‘ b. Xadij).",
-  "To‘liq isnodsiz «وعن…», «قال: وأخبرني…» bilan boshlanadigan davom raqamlarida yo‘l endi o‘z raqamining kartasida turadi, avval esa oldingi raqamning kartasida edi; matn bilan ko‘rib chiqilgan to‘qqiz ko‘chirishdan qarab ko‘ring: Fath 522 («قال عروة: ولقد حدثتني عائشة», avval Fath 521 da) va Fath 1259 («وعن أيوب عن حفصة عن أم عطية», avval Fath 1258 da). Fath 3880 va Fath 5463 ataylab o‘zgartirilmadi.",
-  "Ekran darajasidagi aniq ulush Buxoriyda 95,78 → 95,91 %, Muslimda 95,53 → 95,57 % bo‘ldi va hech bir kitob yomonlashmadi; jami 340 karta o‘zgardi.",
-  "Ilova qismi sinov.18 dagidek qoldi, shu sababli bu yangilanishda faqat ikki baza (Tuhfa va karta bazalari) bilan ilova qismi yuklanadi (jami ≈ 24 MB)."
+  "Taxminan 3 410 kartada bo‘g‘inlar ittisoli to‘ldirildi: ikki uchi aniq tanilgan bo‘lsa-da rangi bo‘sh turgan yoki eski «aniqlash aniq emas» izohi qolib ketgan bo‘g‘inlar endi bazadagi hisoblangan qiymat yoki Tahzibdagi روى عن / روى عنه ro‘yxati bo‘yicha rang oladi, eskirgan izoh esa olib tashlandi. Qarab ko‘ring: Fath 2, Fath 8.",
+  "Bir bosma raqam ostida bir nechta birlik bo‘lgan joylarda yo‘l endi o‘ziga tegishli birlikda turadi: Fath 5463, Fath 1716 va Fath 511.",
+  "Fath 764 sarlavhasida sahobiy endi زيد بن ثابت, chunki sizning qaroringizga (U31) ko‘ra isnod tepasidagi «قال لي X» «حدثنا» kabi hisoblanadi.",
+  "Fath 6006 dagi «إسماعيل» shu raqamning boshqa birligidagi ochiq ism («حدثنا إسماعيل بن عبد الله») yordamida aniq tanildi, Fath 4875 dagi ikkinchi isnodning «محمد» i esa ehtimoliy holatida qolib, faqat dalilsiz yetakchisi olib tashlandi.",
+  "Tuhfa 2456 yozuvidagi ابن عباس yo‘li Fath 958 dan olinib, Fath 959 va Fath 960 ga biriktirildi; Fath 1563, Fath 1569, Fath 3717 va Fath 3718 sarlavhalari esa sizning qaroringizga (U32) ko‘ra bo‘sh qoladi.",
+  "Hali ochiq qolganlar: Fath 959 kartasining o‘zi hozircha bo‘sh (uni quruvchi skript noutbukdagi fayllarni talab qiladi), shuning uchun ابن عباس yo‘li u yerda hali ko‘rinmaydi, جابر yo‘li esa Fath 958 da qoldi.",
+  "Ekrandagi aniq ulush sinov.19 dagidek qoldi (Buxoriy 95,91 %, Muslim 95,57 %) va hech bir kitob yomonlashmadi.",
+  "Ilova qismi o‘zgarmagan, shu sababli bu yangilanishda faqat ikki baza (Tuhfa va karta bazalari) bilan ilova qismi yuklanadi (jami ≈ 24 MB)."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.19",
-  "versionCode": 100619,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.19-planshet/veb-0.10.6-sinov.19.zip",
-  "sha256": "898df19356e0d8b3a9a207cbe2f2c27fad6ef8eba6a90290278ed14cf9197d80",
+  "versiya": "0.10.6-sinov.20",
+  "versionCode": 100620,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.20-planshet/veb-0.10.6-sinov.20.zip",
+  "sha256": "a996a3737086b25b7bd8aab2ca0d4aed81db86f178c453235e4a2da2ed32d84f",
   "hajm": 1139094,
   "min_native": 1
  },
  "bazalar": {
-  "belgi": "8bc2856f742d7db8",
+  "belgi": "cce2cd524b1e4cd4",
   "fayllar": {
    "rijol.sqlite": {
     "sha256": "fd66220b43f45cd43cd48cd6b05fcafbd476c27970522de3165c2e6ec7d7dd6c",
@@ -45,11 +48,11 @@
     "hajm": 46759936
    },
    "kitob_karta.sqlite": {
-    "sha256": "e415f6d31a349f2031915dee472215725c0c44ff9143d743c4d70d46beb1d9b7",
+    "sha256": "9aa0952268ec334185281188b535db2ec0d24fad968a947cc916067e7355bdb3",
     "hajm": 52629504,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.19-planshet/kitob_karta.sqlite.xz",
-    "xz_sha256": "b14ab702f34bbfe1d2788051625725f7b3bca69f994565e5caa4e189f87c7c52",
-    "xz_hajm": 4341236
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.20-planshet/kitob_karta.sqlite.xz",
+    "xz_sha256": "2918fa67fe5bbcfaab61b89b24810d2a23eb54c48342edbb7f5f1e7ec8f48f6a",
+    "xz_hajm": 4343352
    },
    "kitob_mashq.sqlite": {
     "sha256": "ded8f94869163054e5672d796b8101ca38fbfaf24715617d5dd6063621f1bdbf",
@@ -74,11 +77,11 @@
     "hajm": 21426176
    },
    "kitob_tuhfa.sqlite": {
-    "sha256": "5b7ae21afcc64171ac1571bdff9e37d780c77002e24ebe92e123076b1a15d3e5",
-    "hajm": 289419264,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.19-planshet/kitob_tuhfa.sqlite.xz",
-    "xz_sha256": "eb09100fa359e208a978997c3af85220c9cdab6318431a361029b9ad5cafd556",
-    "xz_hajm": 18459896
+    "sha256": "b7aeb7f09750b388bb8f307514f899bd89c31ebcc934887debb4b4e5f589c9d8",
+    "hajm": 289480704,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.20-planshet/kitob_tuhfa.sqlite.xz",
+    "xz_sha256": "fe020439aacd4a0c51b9358a442634bf55dc1f3a533f7a7c60c139d0cc452d3d",
+    "xz_hajm": 18522068
    }
   }
  }
