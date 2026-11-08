@@ -1,33 +1,30 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.21",
- "versionCode": 100621,
+ "version": "0.10.6-sinov.22",
+ "versionCode": 100622,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.21-planshet/Rijol-planshet-v0.10.6-sinov.21.apk",
- "size": 111450002,
- "sha256": "4c6628a7d80a97584255886e7514cbbd5266bbb6b0c523f095a29566d7eb8a7c",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.22-planshet/Rijol-planshet-v0.10.6-sinov.22.apk",
+ "size": 111462290,
+ "sha256": "c1c8fcdd604467130fb9ffcb65e8f8a1f9e1b94694e0b624ab3c48acb3095b6f",
  "date": "2026-11-08",
  "notes": [
-  "Shajarada tugun yorlig‘i endi shu hadisning o‘z yo‘llari bo‘yicha qo‘yiladi (U33): Fath 1349 dagi «عكرمة» endi «aniq» (oldin «qisman aniq 5/6»). Shunday o‘zgarish 357 kartada bor.",
-  "Muslim 758: «سعيد بن مرجانة» bosilsa endi سعيد ابن مرجانة (العامري) kartasi ochiladi, oldin adashib سعيد بن يسار ochilardi. Muslim shayxlari «أبي بكر» (ابن أبي شيبة) va «أبي موسى» (محمد بن المثنى) ham endi aniq.",
-  "Muslim 2263: «معتمر بن راشد» deb yozilgan tugun endi معمر بن راشد kartasini ochadi (oldin معتمر بن سليمان). Tuhfadagi yozuv o‘zgarmadi.",
-  "Fath 3293: Nasoiy yo‘lining oxiridagi «أبي الدرداء» endi sahobiy أبو الدرداء (عويمر) kartasini ochadi, oldin adashib أم الدرداء الصغرى ochilardi.",
-  "Fath 1559: Muslim yo‘lidagi «أبي موسى» endi aniq — bu Muslimning shayxi محمد بن المثنى. Muslim 684 da bitta aniqlanmagan «أبي موسى عبد الأعلى» tuguni ikkiga bo‘lindi: «أبي موسى» va «عبد الأعلى», ikkalasi aniq.",
-  "Muslim 1713: هشام بن عروة ostida endi ikki alohida tugun bor — «ابن نمير» (Muslim yo‘li) va «عبدة بن سليمان» (Termiziy yo‘li), ikkalasi aniq.",
-  "Ekrandagi aniq ulush: Buxoriy 95,91 → 96,55 %, Muslim 95,57 → 96,31 %. Hech bir kitob yomonlashmadi.",
-  "Bu yangilanishda uch baza (Tuhfa, karta va Muslim bazalari) bilan ilova qismi yuklanadi (jami ≈ 31 MB)."
+  "Fath 3293: «أبي الدرداء» endi Shajarada o‘z sahobiy ildizida, sahobiylar qatorida turadi. Oldin أبو أيوب ildizi ostida, 3-qavatda chiqardi (U34). Xuddi shu yo‘l Muslim 2693 da ham tuzaldi.",
+  "Muslim 2078: «علي» endi «ابن حنين» ostida ikkinchi marta chiqmaydi, yo‘l to‘g‘ridan-to‘g‘ri «علي» ildiziga ulanadi.",
+  "Fath 1559: bir tugunli yo‘ldagi «أبي موسى» (Muslimning shayxi محمد بن المثنى) endi sahobiy أبو موسى ildizi bilan qo‘shilib ketmaydi, uning ostida alohida tugun bo‘lib turadi.",
+  "Jami 67 kartada faqat Shajara ko‘rinishi o‘zgardi. Aniq ulush o‘zgarmadi (Buxoriy 96,55 %, Muslim 96,31 %).",
+  "Bu yangilanishda faqat karta bazasi bilan ilova qismi yuklanadi (jami ≈ 5,5 MB)."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.21",
-  "versionCode": 100621,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.21-planshet/veb-0.10.6-sinov.21.zip",
-  "sha256": "b243613a3734e0ba5c95abc3103126b6d6b994d4dae840efad08b7f3a6343c4e",
-  "hajm": 1139743,
+  "versiya": "0.10.6-sinov.22",
+  "versionCode": 100622,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.22-planshet/veb-0.10.6-sinov.22.zip",
+  "sha256": "4e1d77367ed9d5c4e4ad268971c8cb07c8e5a8a9cbe4d467288a13698a488ccd",
+  "hajm": 1139845,
   "min_native": 1
  },
  "bazalar": {
-  "belgi": "ad65b44776d17be0",
+  "belgi": "25b2bd815eb20a53",
   "fayllar": {
    "rijol.sqlite": {
     "sha256": "fd66220b43f45cd43cd48cd6b05fcafbd476c27970522de3165c2e6ec7d7dd6c",
@@ -48,11 +45,11 @@
     "hajm": 46759936
    },
    "kitob_karta.sqlite": {
-    "sha256": "936fe29cdc93f5058416b109cb90b2db905aa19d49f87a38b933949814ca4aa2",
-    "hajm": 52752384,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.21-planshet/kitob_karta.sqlite.xz",
-    "xz_sha256": "ce8819fa664d02af16bcf7d2284faf08a8f675c384e72f883cbf91404f159d4b",
-    "xz_hajm": 4352900
+    "sha256": "9a013b441ddf0c4acf375f412c4fa1f462f1d68639096252aeb88dba26e93c5a",
+    "hajm": 52858880,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.22-planshet/kitob_karta.sqlite.xz",
+    "xz_sha256": "077f0ef97e993ffc26e3bf55ae93ce47e60ceb152382c2cd6ef69b5cc078d936",
+    "xz_hajm": 4361120
    },
    "kitob_mashq.sqlite": {
     "sha256": "ded8f94869163054e5672d796b8101ca38fbfaf24715617d5dd6063621f1bdbf",
