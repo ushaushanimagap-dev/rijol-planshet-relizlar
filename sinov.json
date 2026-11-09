@@ -1,30 +1,32 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.22",
- "versionCode": 100622,
+ "version": "0.10.6-sinov.23",
+ "versionCode": 100623,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.22-planshet/Rijol-planshet-v0.10.6-sinov.22.apk",
- "size": 111462290,
- "sha256": "c1c8fcdd604467130fb9ffcb65e8f8a1f9e1b94694e0b624ab3c48acb3095b6f",
- "date": "2026-11-08",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.23-planshet/Rijol-planshet-v0.10.6-sinov.23.apk",
+ "size": 111884178,
+ "sha256": "23ef4a99f4038de868d3759dd1d46928a042b731086e3e096f6410b0f18a1d4f",
+ "date": "2026-11-09",
  "notes": [
-  "Fath 3293: «أبي الدرداء» endi Shajarada o‘z sahobiy ildizida, sahobiylar qatorida turadi. Oldin أبو أيوب ildizi ostida, 3-qavatda chiqardi (U34). Xuddi shu yo‘l Muslim 2693 da ham tuzaldi.",
-  "Muslim 2078: «علي» endi «ابن حنين» ostida ikkinchi marta chiqmaydi, yo‘l to‘g‘ridan-to‘g‘ri «علي» ildiziga ulanadi.",
-  "Fath 1559: bir tugunli yo‘ldagi «أبي موسى» (Muslimning shayxi محمد بن المثنى) endi sahobiy أبو موسى ildizi bilan qo‘shilib ketmaydi, uning ostida alohida tugun bo‘lib turadi.",
-  "Jami 67 kartada faqat Shajara ko‘rinishi o‘zgardi. Aniq ulush o‘zgarmadi (Buxoriy 96,55 %, Muslim 96,31 %).",
-  "Bu yangilanishda faqat karta bazasi bilan ilova qismi yuklanadi (jami ≈ 5,5 MB)."
+  "Muslim kartalarida yangi «جوامع الكلم yo‘llari» bo‘limi: kartaning eng pastida yig‘iq turadi, ochilsa boshqa kitoblardagi qo‘shimcha yo‘llar ko‘rinadi. Masalan Muslim 1202 da 24 yo‘l, Muslim 402 da 14 yo‘l. Bu yo‘llar aniq ulushiga qo‘shilmaydi.",
+  "Haramayn ro‘yxati o‘z kitoblarimizda tasdiqlangani uchun yangi roviylar tanildi: Fath 11 da «أبي بردة» — أبو بردة بن أبي موسى; Fath 1375 da Buxoriyning shayxi «أبي موسى» — محمد بن المثنى; Fath 4455 va Muslim 1106 da «سفيان» — سفيان الثوري.",
+  "Boshqa hadis kartasiga adashib ulangan yo‘llar o‘z kartasiga ko‘chdi. Masalan, Oisha roziyallohu anhoning kusuf hadisi yo‘llari Muslim 904 (Jobir hadisi) dan Muslim 901 ga o‘tdi.",
+  "Kichik yangilanish tuzatildi (U35): sinov.22 «open failed: ENOENT» xatosi bilan o‘rnatilmagan edi. Endi bir vaqtda faqat bitta yuklash ishlaydi, bazalar papkasi yuklash paytida o‘chib qolmaydi, xato bo‘lsa sababi jurnalga yoziladi.",
+  "Ekrandagi aniq ulush: Buxoriy 96,55 → 96,71 %, Muslim 96,31 → 96,45 %. Hech bir kitob yomonlashmadi.",
+  "Nazorat: Fath 1 o‘zgarmagan, avvalgidek ko‘rinishi kerak.",
+  "Bu yangilanishda ikki baza (Tuhfa va karta) bilan ilova qismi yuklanadi (jami ≈ 24 MB). «Yangilash» ni bir marta bosing va tugashini kuting."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.22",
-  "versionCode": 100622,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.22-planshet/veb-0.10.6-sinov.22.zip",
-  "sha256": "4e1d77367ed9d5c4e4ad268971c8cb07c8e5a8a9cbe4d467288a13698a488ccd",
-  "hajm": 1139845,
+  "versiya": "0.10.6-sinov.23",
+  "versionCode": 100623,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.23-planshet/veb-0.10.6-sinov.23.zip",
+  "sha256": "2ff5f06026b49fa458986b38579ddbaff0314aa7b5a9096e49be614d52ec6cf3",
+  "hajm": 1141596,
   "min_native": 1
  },
  "bazalar": {
-  "belgi": "25b2bd815eb20a53",
+  "belgi": "35b05322bc3e9745",
   "fayllar": {
    "rijol.sqlite": {
     "sha256": "fd66220b43f45cd43cd48cd6b05fcafbd476c27970522de3165c2e6ec7d7dd6c",
@@ -45,11 +47,11 @@
     "hajm": 46759936
    },
    "kitob_karta.sqlite": {
-    "sha256": "9a013b441ddf0c4acf375f412c4fa1f462f1d68639096252aeb88dba26e93c5a",
-    "hajm": 52858880,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.22-planshet/kitob_karta.sqlite.xz",
-    "xz_sha256": "077f0ef97e993ffc26e3bf55ae93ce47e60ceb152382c2cd6ef69b5cc078d936",
-    "xz_hajm": 4361120
+    "sha256": "ed3c0402f36b05b61a74125db7fbf80b843de5e8fae21332a93f191012ed4818",
+    "hajm": 54202368,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.23-planshet/kitob_karta.sqlite.xz",
+    "xz_sha256": "76489fcd2b4ad8966693e7504f04ac2208ecd4d224562cfbc7e5a3824e4c9708",
+    "xz_hajm": 4557116
    },
    "kitob_mashq.sqlite": {
     "sha256": "ded8f94869163054e5672d796b8101ca38fbfaf24715617d5dd6063621f1bdbf",
@@ -74,11 +76,11 @@
     "hajm": 21426176
    },
    "kitob_tuhfa.sqlite": {
-    "sha256": "4d6d780b758abf041d74d752ccfdc2b3955d4e7874935b43f538b2d0cadf625e",
-    "hajm": 290611200,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.21-planshet/kitob_tuhfa.sqlite.xz",
-    "xz_sha256": "1227a20bdb4dcbaaee3e8a48183f51fd84d00e9849030c03ba7162294bd9ddb8",
-    "xz_hajm": 18681236
+    "sha256": "02971b511233da75581e129603f9f66e8b95b45253172b92de9e263a051985e3",
+    "hajm": 290840576,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.23-planshet/kitob_tuhfa.sqlite.xz",
+    "xz_sha256": "9330de678d116abac2523bda0c16f6dfeb956b9238986999533d7db6ddb9f501",
+    "xz_hajm": 18713948
    }
   }
  }
