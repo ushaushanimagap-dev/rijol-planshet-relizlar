@@ -1,32 +1,31 @@
 {
  "package": "uz.rijol.planshet",
- "version": "0.10.6-sinov.30",
- "versionCode": 100630,
+ "version": "0.10.6-sinov.31",
+ "versionCode": 100631,
  "kanal": "sinov",
- "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.30-planshet/Muhaddis-AI-v0.10.6-sinov.30.apk",
- "size": 172055468,
- "sha256": "9ae25666f54bed0c18a62361228c3842cf66117f7f5d4b6c3cf95b20ea6c9aba",
- "date": "2026-11-16",
+ "apk": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.31-planshet/Muhaddis-AI-v0.10.6-sinov.31.apk",
+ "size": 173222828,
+ "sha256": "ebdaa2216fed24cd38eeafdd7518c747ff324af44611e93bc6d7e4d783c251c1",
+ "date": "2026-11-17",
  "notes": [
-  "Abu Dovud, Termiziy, Nasoiy va Ibn Moja kartalarida kitob ichidagi o‘rinlar qutisi («Termiziyda», «Nasoiyda» va h.k.) qayta tuzildi: sanad to‘liq ko‘rinadi, tor ekranda ham ustunlar siqilmaydi.",
-  "Kitob ichidagi takror o‘rinlar ko‘paydi (Nasoiyda ham); har o‘rin yonida dalil yorlig‘i — Tuhfa, Buxoriy/Muslim orqali yoki muhaqqiq hoshiyasi.",
-  "Madar endi bir qoida bilan: sarlavhadagi yorliq, O‘rganish va Nashr bir xil roviyni aytadi; barcha yo‘llar o‘tishi ko‘rinmasa, «madar deyilmadi» va sababi yoziladi.",
-  "Roviy belgilarida tadlis tabaqasi va Ibn Hajarning ta’rifi, manba iborasi aynan chiqadi.",
-  "Buxoriy va Muslim kartalarida «Boshqa kitoblarda» bo‘limiga Sunan juftlari qo‘shildi.",
-  "Tuhfa yozuvlari sarlavhalari va ba’zi sanad/matn bo‘linishlari tuzatildi; Shajara ochilganda butun daraxt sig‘adi.",
-  "Bazalar yangilandi: faqat o‘zgargan 7 baza yuklanadi, Daftarim saqlanadi."
+  "Termiziy, Ibn Moja, Abu Dovud va Nasoiyda 883 ta hadisga Shajara qo‘shildi (avval eski daraxt chiqardi); bog‘lanish «ehtimoliy» (ba’zilari jamlanma tasdig‘i bilan), hech qayerda «aniq» emas.",
+  "Kitob ichidagi takror va «Qarang» ro‘yxatlariga ustoz ro‘yxatidagi AI qarorlari qo‘shildi — har birida «AI qarori · ustoz tasdiqlamagan» belgisi; bosilsa sabab va dalil ochiladi.",
+  "Tuhfa yo‘llarida 545 ta roviy endi kitobning o‘z zanjiridan tanilgan (manba yozuvi bilan).",
+  "Muslim raqamlari tuzatildi: 722 → 822 (3 qism), 1125 → 1126 (2 qism); «Muslim 1126» endi 6 qismli.",
+  "Ba’zi roviy tuzatishlari: «الحسن البصري» to‘g‘ri tanildi; أبو الدرداء yo‘l tepasida endi ko‘rinadi; Shajarada bir ildizga yig‘ilib qolgan turli sahobiylar ajratildi.",
+  "Bir nechta noto‘g‘ri Tuhfa bog‘lanishi «ehtimoliy»ga tushirildi, izohi bilan. Yangilanish ichidan: faqat o‘zgargan 6 baza."
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.10.6-sinov.30",
-  "versionCode": 100630,
-  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.30-planshet/veb-0.10.6-sinov.30.zip",
-  "sha256": "1e59e5d06e7b7e8479d26012c65a38ba55771921d821ef51d6abaef74abe012f",
-  "hajm": 4192493,
+  "versiya": "0.10.6-sinov.31",
+  "versionCode": 100631,
+  "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.31-planshet/veb-0.10.6-sinov.31.zip",
+  "sha256": "75cfffd9537a4a1ee731a8060dca96e07568c04b8d4b18f663243f4e8f86bd2b",
+  "hajm": 4193218,
   "min_native": 1
  },
  "bazalar": {
-  "belgi": "4d367a8c496ed73e",
+  "belgi": "8700fa208e9f1a04",
   "fayllar": {
    "rijol.sqlite": {
     "sha256": "c97e92a67c27ba6df01eaab3c170eb7d9201990fcdd7f6b17495bad87c702326",
@@ -36,11 +35,11 @@
     "xz_hajm": 15312404
    },
    "kitob_abu_dovud.sqlite": {
-    "sha256": "c599d95b5a4140a4c091f5fb2a2eb803d996b48f9a293f6a36c4c6b6bd9bf39d",
-    "hajm": 53776384,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.30-planshet/kitob_abu_dovud.sqlite.xz",
-    "xz_sha256": "8b5473e7eb18678ce23730d9686463497789f7c968556e668b342047e7e5ab77",
-    "xz_hajm": 5218240
+    "sha256": "71d1d8c059e8f144fe47c363e8d28eb7afc3c56e930e1d72c1ab8c1049e97210",
+    "hajm": 53784576,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.31-planshet/kitob_abu_dovud.sqlite.xz",
+    "xz_sha256": "b00e8933defcc8532eb33545de787faf591d1fd248db2f1f478eafe82c752412",
+    "xz_hajm": 5225772
    },
    "kitob_birlik.sqlite": {
     "sha256": "36c253de1ac65fbe0630de60c36845c53a890435af0d3f714d0b0267a57deab2",
@@ -50,33 +49,33 @@
     "xz_hajm": 827864
    },
    "kitob_ibn_moja.sqlite": {
-    "sha256": "15c607e6ccf78437ab465506b7ff6144cfb18ebaf24c5c38239f5bdd7d3fcd6d",
-    "hajm": 47628288,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.30-planshet/kitob_ibn_moja.sqlite.xz",
-    "xz_sha256": "1388fb573925294b43d5d73b22609531e73d884b9305675d930e2fc5832714e1",
-    "xz_hajm": 4327000
+    "sha256": "10bf5465cefacac14f860bc7085b952f70179b4f80b579164cf6e40388a6c40c",
+    "hajm": 47636480,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.31-planshet/kitob_ibn_moja.sqlite.xz",
+    "xz_sha256": "007c9f0e2addb6afc5fd5c3480657ffabd2f66c2e4ae999f8d9c308ebbb3992f",
+    "xz_hajm": 4320792
    },
    "kitob_ilal.sqlite": {
     "sha256": "fda978d041ee5af65dfdc809f833eb610b43cd57dd232f9701c0f6225b15cb8f",
     "hajm": 46759936
    },
    "kitob_karta.sqlite": {
-    "sha256": "6c4e77297cae3d8d16f0f4a6ad929a83c233af9907b19442aff9464b9a810042",
-    "hajm": 113115136,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.30-planshet/kitob_karta.sqlite.xz",
-    "xz_sha256": "b7d739d479a77cbe59348f896363d450232cf3dd520db22c61b43aaa6827a048",
-    "xz_hajm": 8506072
+    "sha256": "0b3d827661ad50cc868d0798ecdca138c9801474c013404203f8e73100fa4af1",
+    "hajm": 121012224,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.31-planshet/kitob_karta.sqlite.xz",
+    "xz_sha256": "758351ad6066e060cf69e34a01762ec6bb886ab5cc362999ba7985a0839acde1",
+    "xz_hajm": 8981356
    },
    "kitob_mashq.sqlite": {
     "sha256": "ded8f94869163054e5672d796b8101ca38fbfaf24715617d5dd6063621f1bdbf",
     "hajm": 1503232
    },
    "kitob_muslim.sqlite": {
-    "sha256": "001f674a76d0d9d5afe29bdb84eae921ae03997d54114f2e51e69fd2a6bc83b8",
-    "hajm": 88100864,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.28-planshet/kitob_muslim.sqlite.xz",
-    "xz_sha256": "09d0effb268f0ebc7da45f6ed73b08352d19f5ccc75e09dde1baa73ddb186196",
-    "xz_hajm": 7222996
+    "sha256": "539266225e0baea02f850bd1dc5bb603a97218c38a9dd5b1a31ddfbaa2ca1049",
+    "hajm": 88113152,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.31-planshet/kitob_muslim.sqlite.xz",
+    "xz_sha256": "fa25078b2238283782c869732f93e117d4220ca17318ef68fc954742257eaa0b",
+    "xz_hajm": 7230632
    },
    "kitob_mustalah.sqlite": {
     "sha256": "13c72887bb2640d6e62ee1cb0b505108e039a507410ed5394163171d4626416e",
@@ -107,18 +106,18 @@
     "xz_hajm": 4695980
    },
    "kitob_termiziy.sqlite": {
-    "sha256": "b7de13dd5915688027caaace7b958b8895259598547aec0858ccf8075b1787b4",
-    "hajm": 48820224,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.30-planshet/kitob_termiziy.sqlite.xz",
-    "xz_sha256": "b79ac5b7c067767bbb4f0a564e44598ca9fca93dcc93ed9ae4b4c49669bbbd7e",
-    "xz_hajm": 4303152
+    "sha256": "5874ce138866ea90b282fd87f52b7c0ccc40977dc64e5aafeafe76ee95cffefb",
+    "hajm": 48832512,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.31-planshet/kitob_termiziy.sqlite.xz",
+    "xz_sha256": "e5bc21cd350c55a0f55f757c53827c99afb0f462591a9f7505e3937bc3831af4",
+    "xz_hajm": 4304056
    },
    "kitob_tuhfa.sqlite": {
-    "sha256": "a9a359e899adf722f5d54866442c4e7e3389a5afa4de3c79eb9b2592861fe31a",
-    "hajm": 365203456,
-    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.30-planshet/kitob_tuhfa.sqlite.xz",
-    "xz_sha256": "a498d7df691a91915abfd370e73e143afcdbcbfc79b748199bb4692f87f52d0f",
-    "xz_hajm": 25941876
+    "sha256": "836a4647967d4557e6a79ac6713e3a1f31e5074a255471a6a45edf53545a93b7",
+    "hajm": 367247360,
+    "url": "https://github.com/ushaushanimagap-dev/rijol-planshet-relizlar/releases/download/v0.10.6-sinov.31-planshet/kitob_tuhfa.sqlite.xz",
+    "xz_sha256": "52ea73450f24df4045d5ad8638f9f228279e38cec95da51c6007365aad2d9538",
+    "xz_hajm": 26098400
    }
   }
  }
